@@ -1,0 +1,44 @@
+name: budget_app
+description: Application de gestion de budget et dépenses
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # UI
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.0
+  shared_preferences: ^2.2.0
+  intl: ^0.19.0
+  
+  # Graphiques
+  fl_chart: ^0.68.0
+  
+  # Export PDF
+  share_plus: ^7.2.1
+  pdf: 3.10.8
+  flutter_launcher_icons: ^0.14.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/logo.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+  adaptive_icon_background: "#7C3AED"
+  adaptive_icon_foreground: "assets/logo.png"
