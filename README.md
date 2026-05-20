@@ -308,45 +308,26 @@ Les contributions sont les bienvenues ! Voici comment commencer:
 - Gardez les commits atomiques et descriptifs
 - Assurez-vous que le code passe `flutter analyze`
 
-### Signaler des Problèmes
-Trouvé un bug? [Ouvrez une issue](https://github.com/votre-username/budget-app/issues) avec:
-- Description claire
-- Étapes pour reproduire
-- Comportement attendu vs comportement réel
-- Captures d'écran/logs si applicable
+
 
 ---
 
 
-## 💬 Support & Communauté
-
-- **Issues**: [GitHub Issues](https://github.com/votre-username/budget-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/votre-username/budget-app/discussions)
-- **Email**: votre-email@example.com
-
----
 
 ## 👨‍💻 Auteur
 
-Créé avec ❤️ par **[Votre Nom]**
+Créé avec ❤️ par **[Brandon Andria]**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profil-black?style=flat-square&logo=github)](https://github.com/votre-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/votre-profil)
-[![Twitter](https://img.shields.io/badge/Twitter-Suivre-blue?style=flat-square&logo=twitter)](https://twitter.com/votre-profil)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-@brandon0638-black?style=flat-square&logo=github)](https://github.com/brandon0638)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandy%20Andria-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brandyy-andria-30595040a/)
 
-## 🙏 Remerciements
 
-- Communauté [Flutter](https://flutter.dev)
-- Équipe du langage [Dart](https://dart.dev)
-- Tous les contributeurs et utilisateurs
 
----
 
 <div align="center">
 
-### Créé avec 💙 par les développeurs, pour les développeurs
+### Créé avec ❤️
 
 **[⬆ retour au sommet](#-budget-app)**
 
